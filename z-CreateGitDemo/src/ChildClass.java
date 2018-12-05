@@ -6,6 +6,7 @@ public class ChildClass {
 		pc.show();
 		pc.eat();
 		pc.poona();
+		pc.poonakot();
 	}
 
 }

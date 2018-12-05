@@ -8,7 +8,10 @@ public class ParentClass {
 		System.out.println("I am eating now ");
 	}
 	public void poona() {
-		System.out.println("this is poonaji family and this is very good family");
+		System.out.println("this is poonaji family and this is very good family ");
+	}
+	public void poonakot() {
+		System.out.println("this is poonakot village ");
 	}
 
 }
