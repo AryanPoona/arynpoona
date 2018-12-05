@@ -5,6 +5,7 @@ public class ChildClass {
 		ParentClass pc=new ParentClass();
 		pc.show();
 		pc.eat();
+		pc.poona();
 	}
 
 }
