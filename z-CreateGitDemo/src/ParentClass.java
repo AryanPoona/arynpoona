@@ -13,5 +13,8 @@ public class ParentClass {
 	public void poonakot() {
 		System.out.println("this is poonakot village ");
 	}
-
+	public void madhu() {
+		System.out.println("HI this is my Maa");
+	}
+    
 }

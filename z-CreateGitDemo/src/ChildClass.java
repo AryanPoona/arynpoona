@@ -7,6 +7,7 @@ public class ChildClass {
 		pc.eat();
 		pc.poona();
 		pc.poonakot();
+		pc.madhu();
 	}
 
 }
